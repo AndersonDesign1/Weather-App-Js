@@ -1,3 +1,8 @@
+/**
+ * The above code is a TypeScript function that fetches weather data from the OpenWeatherMap API based on a user-inputted city, and displays the temperature, description, and additional details on a webpage.
+ * @param cityValue - The `cityValue` parameter is the value entered by the user in the city input field. It represents the name of the city for which the weather data is requested.
+ */
+
 const apikey = "57d99e9672a0f9f6ee792cadfb509260";
 
 const weatherDataEl = document.getElementById("weather-data");
